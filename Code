@@ -1,0 +1,19 @@
+#alimanzoor
+
+class Solution {
+public:
+    string gcdOfStrings(string str1, string str2) {
+
+        stringx = "ABC", stringy = "BCC"
+        def stringt_s(string):
+
+     'Checking is s = t+t+t+t... '
+     'Once the condition above is met, t divides s'
+
+        if (stringx = stringy + stringy + stringy + stringy + stringy)
+        stringresult = stringx / stringy
+
+        
+        
+    }
+};
