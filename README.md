@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: AliManzoor alimanzoor
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** mazin abdelrahman mazintarawa
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** Great communication, explained throughly the thought process behind how I came to the solution and why that solution is better than any other ones.
